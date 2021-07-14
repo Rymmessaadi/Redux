@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+body {
+    border-radius: 12px;
+    border-color: brown;
+}
+button {
+    background-color: blueviolet;
+    height: 40px;
+}
+
+
+
+.container {
+    width: 250px;
+    min-height: 50px;
+    padding: 20px;
+    border:1px;
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+img {
+    margin: 0 auto;
+    width: 50px;
+	height: 50px;
+}
+
+#count{
+    font-weight: bold;
+    font-size: 20px;
+}
