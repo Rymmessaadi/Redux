@@ -22,6 +22,10 @@ button {
     flex-direction: column;
     text-align: center;
 }
+.section-one{
+    display: flex;
+    flex-direction: row;
+}
 
 img {
     margin: 0 auto;
